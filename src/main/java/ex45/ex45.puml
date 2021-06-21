@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class main {
+inputFile
+String input
+String fileText
+String outputText
+
+}
+
+@enduml

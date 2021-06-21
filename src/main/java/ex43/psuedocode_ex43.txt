@@ -1,0 +1,22 @@
+//Main
+Create class
+Create Strings for sitename, author, jscoice, csschoice
+
+prompt user for each input and scan them
+sitename
+author
+jschoice y or no
+csschoice y or no
+
+//go to method filecreator
+
+create a String for the path to place folders and index file
+locate the file path
+
+print statement to display to user that the website name has been created
+
+use an if statement for user choice for folders for js and css in the path
+print statement in each case to show that the folders have been created
+
+point each statement to the path of the directory
+

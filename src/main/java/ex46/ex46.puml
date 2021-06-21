@@ -1,0 +1,15 @@
+@startuml
+
+class main{
+Map words
+File input
+String next
+
+comapre(){
+Object o1
+Object o2
+}
+
+}
+
+@enduml

@@ -1,0 +1,17 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class main{
+siteName
+author
+jsChoice
+cssChoice
+
+method filecreator{
+file path creation
+
+}
+
+}
+
+@enduml

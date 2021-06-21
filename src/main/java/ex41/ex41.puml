@@ -1,0 +1,19 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Main{
+
+inputfile
+outputfile
+
+sortnames(){
+Arraylist
+
+}
+
+
+
+}
+
+
+@enduml
